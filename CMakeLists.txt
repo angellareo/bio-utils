@@ -12,4 +12,4 @@ set(CMAKE_CXX_FLAGS                "-std=c++14")
 set(CMAKE_CXX_FLAGS_DEBUG          "-Wall -O0 -g -std=c++14")
 set(CMAKE_CXX_FLAGS_RELEASE        "-O4 -DNDEBUG -std=c++14")
 
-add_subdirectory(spk-times)
+add_subdirectory(scripts/spk-times)
